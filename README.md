@@ -1,2 +1,2 @@
-npm i
-npm run dev | npm start
+npm i <br/>
+npm run dev
